@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PracticeHubAPI.Controllers
+namespace PracticeHub.WebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

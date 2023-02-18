@@ -1,4 +1,4 @@
-namespace PracticeHubAPI
+namespace PracticeHub.WebAPI
 {
     public class WeatherForecast
     {
